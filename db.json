@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "text": "할일 작성 후 엔터!",
+      "checked": false,
+      "isEdit": false,
+      "id": 1
+    },
+    {
+      "text": "또는 작성후 당근을 눌러보세요",
+      "checked": false,
+      "isEdit": false,
+      "id": 2,
+      "done": false
+    },
+    {
+      "text": "수정 버튼을 눌러보세요",
+      "checked": false,
+      "isEdit": false,
+      "id": 3
+    },
+    {
+      "text": "수정하고 엔터 또는 바깥쪽 클릭",
+      "checked": false,
+      "isEdit": false,
+      "id": 4
+    },
+    {
+      "text": "휴지통을 누르면 삭제됨",
+      "checked": false,
+      "isEdit": false,
+      "id": 5
+    },
+    {
+      "text": "동그라미를 누르면 할일 완료 체크",
+      "checked": false,
+      "isEdit": false,
+      "id": 6
+    }
+  ]
+}
