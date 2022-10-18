@@ -1,0 +1,26 @@
+{
+  "name": "todo-project-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulyK9/todo-project-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulyK9/todo-project-db/issues"
+  },
+  "homepage": "https://github.com/JulyK9/todo-project-db#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "lowdb": "^4.0.0"
+  }
+}
